@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": "78187",
+      "name": "DZĪVŽOGU CLIMER 20V 45 CM + 2AH AKUMULATORS + LĀDĒTĀJS",
+      "reference": "78187",
+      "price": "€80.60",
+      "oldPrice": null,
+      "discount": null,
+      "brand": "Sthor",
+      "breadcrumb": "78187 DZĪVŽOGU CLIMER",
+      "images": {
+        "main": ["2.0.jpg", "2.jpg"],
+        "thumbnails": ["1.jpg", "2.jpg"]
+      },
+      "description": "Bezvadu dzīvžogu šķēres, ko darbina Sthor platformas 20 V akumulators. Šķēres sniedz lietotājam prieku no klusas darbības un brīvības manevrēt bez apgrūtinoša pagarinātāja. Lielais griešanas asmeņu ātrums ievērojami atvieglo darbu ar svaigiem dzinumiem un zariem līdz 14 mm biezumā.",
+      "fullDescription": "Bezvadu dzīvžogu šķēres, ko darbina Sthor platformas 20 V akumulators. Griešanas ātrums: 1200 apgr./min. Griešanas garums: 450 mm. Griešanas diametrs: 14 mm. Rūdīts asmens izgatavots no 65Mn tērauda. Mīksts, ar gumiju pārklāts rokturis drošai turēšanai darba laikā. Divu roku drošības slēdzis, lai novērstu nejaušu iedarbināšanu.",
+      "specs": {
+        "Zīmols": "Sthor",
+        "Produkta kods": "78187",
+        "Akumulatora tips": "Li-Ion, 20 V d.c.",
+        "Akumulatora ietilpība": "2000 mAh",
+        "Akumulatora enerģija": "40 Wh",
+        "Griešanas garums": "450 mm",
+        "Griešanas ātrums": "1200 min⁻¹",
+        "Maks. griešanas diametrs": "14 mm",
+        "Zobu skaits": "72",
+        "AS-DRIVE sistēma": "Jā",
+        "Asmens materiāls": "65Mn tērauds",
+        "Drošības slēdzis": "Divu roku sistēma"
+      },
+      "included": {
+        "Galvenais": "Dzīvžogu šķēres, 20V 2Ah akumulators, ātrais lādētājs",
+        "Drošība": "Aizsargvāks, drošības rokasgrāmata",
+        "Garantija": "24 mēnešu garantijas talons, apkopes instrukcija"
+      },
+      "warranty": "24 mēneši",
+      "certificates": ["CE sertifikāts", "Premium kvalitāte"],
+      "rating": 3,
+      "inStock": true
+    },
+    {
+      "id": "YT-82895",
+      "name": "18 V akumulatora gaisa sūknis (korpuss) Yato YT-82895",
+      "reference": "YT-82895",
+      "price": "€50.80",
+      "oldPrice": "€77.22",
+      "discount": "-34%",
+      "brand": "Yato",
+      "breadcrumb": "YT-82895 GAISA SŪKNIS",
+      "images": {
+        "main": ["5.1.jpg", "5.2.jpg", "5.3.jpg"],
+        "thumbnails": ["5.1.jpg", "5.2.jpg", "5.3.jpg"]
+      },
+      "description": "Bezvadu gaisa sūknis ar 18V akumulatoru. Kompakts un ērts lietošanā auto riepām, velosipēdiem un citiem objektiem. Digitālais displejs rāda precīzu spiedienu.",
+      "fullDescription": "Profesionāls akumulatora gaisa sūknis ar digitālo displeju un automātisko spiediena kontroli. Iebūvēts LED apgaismojums darbam tumsā. Kompakts dizains ērtai glabāšanai un transportēšanai. Piemērots auto riepām, velosipēdu riepām, bumbu pumpēšanai.",
+      "specs": {
+        "Zīmols": "Yato",
+        "Produkta kods": "YT-82895",
+        "Akumulatora spriegums": "18 V",
+        "Akumulatora tips": "Li-Ion",
+        "Maks. spiediens": "150 PSI / 10.3 bar",
+        "Gaisa plūsma": "35 L/min",
+        "Digitālais displejs": "Jā",
+        "LED apgaismojums": "Jā",
+        "Automātiska apstāšanās": "Jā",
+        "Svars": "1.2 kg",
+        "Darba temperatura": "-10°C līdz +60°C",
+        "Šļūtenes garums": "50 cm"
+      },
+      "included": {
+        "Galvenais": "Gaisa sūknis (korpuss bez akumulatora)",
+        "Piederumi": "Uzgaļu komplekts (auto, velosipēds, bumbas), šļūtene 50cm",
+        "Glabāšana": "Soma transportēšanai, lietošanas instrukcija"
+      },
+      "warranty": "24 mēneši",
+      "certificates": ["CE sertifikāts", "Premium kvalitāte", "ISO 9001"],
+      "rating": 4,
+      "inStock": true,
+      "note": "Akumulators un lādētājs pārdodas atsevišķi"
+    },
+    {
+      "id": "YT-82840",
+      "name": "20V akumulatora urbjmašīna + triecienurbjmašīna 2in1",
+      "reference": "YT-82840",
+      "price": "€95.40",
+      "oldPrice": "€120.00",
+      "discount": "-20%",
+      "brand": "Yato",
+      "breadcrumb": "YT-82840 URBJMAŠĪNA 2IN1",
+      "images": {
+        "main": ["drill-1.jpg", "drill-2.jpg", "drill-3.jpg"],
+        "thumbnails": ["drill-thumb-1.jpg", "drill-thumb-2.jpg", "drill-thumb-3.jpg"]
+      },
+      "description": "Universāla 20V akumulatora urbjmašīna ar triecienurbšanas funkciju. 2-ātrumu pārnesumkārba profesionāliem darbiem. LED apgaismojums un metāla korpuss.",
+      "fullDescription": "Profesionāla 20V akumulatora urbjmašīna ar triecienurbšanas funkciju un 13mm bezatslēgas patronu. Divātrumu pārnesumkārba nodrošina optimālu momentu dažādiem materiāliem. LED apgaismojums apgaismo darba zonu. Ergonomisks dizains samazina nogurumu.",
+      "specs": {
+        "Zīmols": "Yato",
+        "Produkta kods": "YT-82840",
+        "Akumulatora spriegums": "20 V",
+        "Akumulatora tips": "Li-Ion",
+        "Patrona": "13 mm bezatslēgas",
+        "Griezes moments": "60 Nm",
+        "Urbšanas ātrums": "0-400 / 0-1500 apgr/min",
+        "Triecienurbšana": "0-6000 / 0-22500 tr/min",
+        "LED apgaismojums": "Jā",
+        "Ātrumu skaits": "2",
+        "Svars": "1.8 kg",
+        "Maks. urbšana metālā": "13 mm",
+        "Maks. urbšana kokā": "35 mm",
+        "Maks. urbšana mūrī": "13 mm"
+      },
+      "included": {
+        "Galvenais": "Urbjmašīna, 20V 2Ah akumulators, ātrais lādētājs",
+        "Urbšanas piederumi": "HSS urbju komplekts 13 gab. (1-13mm), mūra urbis 6mm",
+        "Skrūvēšana": "Skrūvgrieža bitu komplekts 25 gab., magnētiskais bitu turētājs",
+        "Glabāšana": "Izturīgs plastmasas koferis ar organizatoriem"
+      },
+      "warranty": "36 mēneši",
+      "certificates": ["CE sertifikāts", "Premium kvalitāte", "ISO 9001"],
+      "rating": 5,
+      "inStock": true
+    }
+  ]
+}
